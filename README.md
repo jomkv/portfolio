@@ -10,7 +10,7 @@
     <br />
     Cloned from devenapuro's <a href="https://github.com/devenapuros/portfolio">portfolio</a> project.
     <br />
-    <a href="tbd">Go to website</a>&nbsp;
+    <a href="https://www.jomkv.tech">Go to website</a>&nbsp;
     ·
     &nbsp;<a href="https://github.com/jomkv/portfolio/issues">Report Bug</a>
   </p>
