@@ -1,0 +1,112 @@
+.skills-section {
+    padding: 3rem 0 4rem 0;
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+}
+
+.skills-container {
+    display: flex;
+    flex-direction: column;
+    gap: 4rem;
+}
+
+.skills-column {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.skills-column h2 {
+    font-size: 1.2rem;
+    color: var(--gray);
+}
+
+.skills-list {
+    display: flex;
+    gap: 1rem;
+    width: fit-content;
+    flex-wrap: wrap;
+}
+
+.skills-list > li {
+    aspect-ratio: 1/1;
+    display: flex;
+    gap: 0.5rem;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    list-style: none;
+    background-color: var(--hover);
+    border-radius: 13px;
+}
+
+.skills-list.soft > li {
+    height: 5.5rem;
+    width: 5.5rem;
+    padding: 0.5rem;
+    font-size: 0.75rem;
+}
+
+.skills-list.hard > li {
+    height: 5.5rem;
+    width: 5.5rem;
+    padding: 0.5rem;
+    font-size: 0.8rem;
+    border-radius: 10px;
+    color: var(--text_2);
+    background-color: #0000000b;
+}
+
+body.dark .skills-list.hard > li {
+    background-color: #ffffff0d;
+}
+
+@media screen and (min-width: 668px) {
+    .skills-container {
+        flex-direction: row;
+    }
+
+    .skills-list.soft {
+        width: 12rem;
+    }
+}
+
+@media screen and (min-width: 640px) {
+    .tech-item {
+        position: relative;
+        width: 5.5rem;
+        height: 5.5rem;
+        padding: 0.5rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        background-color: var(--hover);
+        border-radius: 13px;
+        overflow: hidden;
+    }
+
+    .tech-item img {
+        position: absolute;
+        object-fit: contain;
+        transition: opacity 0.2s ease-in-out, transform 0.2s ease-in-out;
+    }
+
+    .skill-name {
+        position: relative;
+        opacity: 0;
+        transition: opacity 0.2s ease-in-out;
+        z-index: 1;
+    }
+
+    .skills-list li:hover .skill-name {
+        opacity: 1;
+    }
+
+    .skills-list li:hover img {
+        opacity: 0.3;
+        transform: scale(1.5) translate(50%, 50%);
+    }
+}

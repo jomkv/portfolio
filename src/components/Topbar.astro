@@ -1,0 +1,24 @@
+---
+import Logo from "./logo.astro";
+import Menu from "./menu.astro";
+import ThemeToggle from "./themeToggle.astro";
+---
+
+<nav id="topbar">
+    <div
+        class="flex justify-between items-center pt-4 w-[90vw] mx-auto lg:w-[900px]"
+    >
+        <Logo />
+        <div class="hidden lg:flex gap-4 items-center">
+            <ThemeToggle />
+        </div>
+        <Menu/>
+    </div>
+</nav>
+<script>
+    const topbar = document.getElementById("topbar");
+    window.addEventListener("scroll", () => {
+        if (window.scrollY >= 130) topbar.classList.add("bordered");
+        else topbar.classList.remove("bordered");
+    });
+</script>

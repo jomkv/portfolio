@@ -1,0 +1,78 @@
+[
+    {
+        "id": "freelance2",
+        "jobPicture": "freelance.webp",
+        "jobColor": "#0086eb",
+        "jobTitle": "Full Stack Web Developer",
+        "jobTime": "February 2025 - April 2025",
+        "jobCompany": "Freelance",
+        "jobDescription": "Developed and deployed a full-stack e-commerce platform with a focus on backend API development, third-party integrations, and seamless front-end collaboration.",
+        "jobActivities": [
+            "Designed and implemented a RESTful API using Express.js, TypeScript, and MongoDB.",
+            "Integrated third-party services and implemented PDF generation for order summaries.",
+            "Developed backend management features for products, orders, and users.",
+            "Collaborated with the front-end team to ensure smooth API integration.",
+            "Deployed the application API on Render and configured DNS and SMTP settings."
+        ],
+        "jobTechnologies": [
+            { "name": "TypeScript", "icon": "typescript" },
+            { "name": "Node.js", "icon": "node" },
+            { "name": "MongoDB", "icon": "mongodb" },
+            { "name": "Express.js", "icon": "express" },
+            { "name": "Vercel", "icon": "vercel" },
+            { "name": "Next.js", "icon": "nextjs" },
+            { "name": "Tailwind", "icon": "tailwind" },
+            { "name": "Git/Github", "icon": "github" },
+            { "name": "Docker", "icon": "docker" }
+        ]
+    },
+    {
+        "id": "freelance1",
+        "jobPicture": "freelance.webp",
+        "jobColor": "#0086eb",
+        "jobTitle": "Full Stack Web Developer",
+        "jobTime": "June 2024 - September 2024",
+        "jobCompany": "Freelance",
+        "jobDescription": "Delivered a custom web application for a client, streamlining their business processes through scalable backend solutions and seamless front-end integration.",
+        "jobActivities": [
+            "Developed and deployed a scalable RESTful API using Express.js and MongoDB.",
+            "Built a custom web application tailored to client requirements.",
+            "Collaborated with a front-end developer to integrate and test API endpoints.",
+            "Ensured reliable data transfer and optimized API performance."
+        ],
+        "jobTechnologies": [
+            { "name": "Express.js", "icon": "express" },
+            { "name": "React.js", "icon": "react" },
+            { "name": "MongoDB", "icon": "mongodb" },
+            { "name": "JavaScript", "icon": "javascript" },
+            { "name": "Git/Github", "icon": "github" },
+            { "name": "Docker", "icon": "docker" }
+        ]
+    },
+    {
+        "id": "internship-cleaningly",
+        "jobPicture": "cleaningly.jpg",
+        "jobColor": "#0086eb",
+        "jobTitle": "Web Developer Intern",
+        "jobTime": "September 2023 - December 2023",
+        "jobCompany": "Cleaningly",
+        "jobDescription": "Contributed to the development and maintenance of multiple web applications, focusing on implementing new features, resolving bugs, and ensuring seamless frontend integrations.",
+        "jobActivities": [
+            "Built and maintained web application features using the MERN stack.",
+            "Resolved API data integrity issues, improving data accuracy for client appointment statistics.",
+            "Completed over 20 development tickets, including bug fixes and feature implementations.",
+            "Collaborated with team members to ensure timely delivery of deliverables."
+        ],
+        "jobTechnologies": [
+            { "name": "Next.js", "icon": "nextjs" },
+            { "name": "React.js", "icon": "react" },
+            { "name": "Material UI", "icon": "materialui" },
+            { "name": "Express.js", "icon": "express" },
+            { "name": "MongoDB", "icon": "mongodb" },
+            { "name": "Git/Github", "icon": "github" },
+            { "name": "TypeScript", "icon": "typescript" },
+            { "name": "Node.js", "icon": "node" },
+            { "name": "Yarn", "icon": "yarn" }
+        ]
+    }
+]

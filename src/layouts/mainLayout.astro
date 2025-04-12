@@ -1,0 +1,45 @@
+---
+const { title } = Astro.props;
+import "../styles/globals.css";
+---
+
+<html lang="es" class="dark">
+    <head>
+        <meta charset="utf-8" />
+        <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+        <meta name="viewport" content="width=device-width" />
+        <meta name="generator" content={Astro.generator} />
+        <meta
+            name="description"
+            content="Developer with a passion for building fullstack websites."
+        />
+        <meta
+            name="keywords"
+            content="Jom Karlo Verzosa,Full Stack Developer,Full Stack,Backend,JavaScript,TypeScript,Node.js,Express.js,MongoDB,React.js,Next.js,Astro.js,HTML,CSS,Web Development,Web Developer"
+        />
+        <meta
+            property="og:title"
+            content="Jom Karlo Verzosa - Full Stack Developer"
+        />
+        <meta
+            property="og:description"
+            content="Developer with a passion for building fullstack websites."
+        />
+        <title>{title}</title>
+    </head>
+    <body class="bg-light-fondo-primary dark:bg-dark-fondo-primary">
+        <slot />
+        <script>
+            const darkThemeMq = window.matchMedia(
+                "(prefers-color-scheme: dark)"
+            );
+            if (darkThemeMq.matches) {
+                document.body.classList.add("dark");
+                document.documentElement.classList.add("dark");
+            } else {
+                document.body.classList.remove("dark");
+                document.documentElement.classList.remove("dark");
+            }
+        </script>
+    </body>
+</html>

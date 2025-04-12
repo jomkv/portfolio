@@ -1,0 +1,29 @@
+---
+import skills from "../data/skills.json";
+import "../styles/skills-section.css";
+---
+
+<section class="skills-section">
+    <h1>Skills<span class="primary-text">.</span></h1>
+    <div class="skills-container">
+        <article class="skills-column">
+            <h2>Technologies and tools</h2>
+            <ul class="skills-list hard">
+                {
+                    skills.map((skill) => (
+                        <li class="tech-item">
+                            <img
+                                src={`/icons/${skill.skillPicture}`}
+                                alt=""
+                                height="auto"
+                                width="45%"
+                                loading="lazy"
+                            />
+                            <span class="skill-name">{skill.skillName}</span>
+                        </li>
+                    ))
+                }
+            </ul>
+        </article>
+    </div>
+</section>

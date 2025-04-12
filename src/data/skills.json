@@ -1,0 +1,86 @@
+[
+    {
+        "skillName": "TypeScript",
+        "skillPicture": "typescript.svg"
+    },
+    {
+        "skillName": "JavaScript",
+        "skillPicture": "javascript.svg"
+    },
+    {
+        "skillName": "Express",
+        "skillPicture": "express.svg"
+    },
+    {
+        "skillName": "MongoDB",
+        "skillPicture": "mongodb.svg"
+    },
+    {
+        "skillName": "React.js",
+        "skillPicture": "react.svg"
+    },
+    {
+        "skillName": "Node.js",
+        "skillPicture": "node.svg"
+    },
+    {
+        "skillName": "Bootstrap",
+        "skillPicture": "bootstrap.svg"
+    },
+    {
+        "skillName": "Tailwind",
+        "skillPicture": "tailwind.svg"
+    },
+    {
+        "skillName": "PHP",
+        "skillPicture": "php.svg"
+    },
+    {
+        "skillName": "Codeigniter4",
+        "skillPicture": "ci4.svg"
+    },
+    {
+        "skillName": "MySQL",
+        "skillPicture": "mysql.svg"
+    },
+    {
+        "skillName": "Git",
+        "skillPicture": "git.svg"
+    },
+    {
+        "skillName": "Github",
+        "skillPicture": "github.svg"
+    },
+    {
+        "skillName": "Postman",
+        "skillPicture": "postman.svg"
+    },
+    {
+        "skillName": "VS Code",
+        "skillPicture": "vscode.svg"
+    },
+    {
+        "skillName": "JQuery",
+        "skillPicture": "jquery.svg"
+    },
+    {
+        "skillName": "NPM",
+        "skillPicture": "npm.svg"
+    },
+    {
+        "skillName": "Vercel",
+        "skillPicture": "vercel.svg"
+    },
+    {
+        "skillName": "Yarn",
+        "skillPicture": "yarn.svg"
+    },
+    {
+        "skillName": "HTML",
+        "skillPicture": "html.svg"
+    },
+    {
+        "skillName": "CSS",
+        "skillPicture": "css.svg"
+    }
+]
