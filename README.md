@@ -1,6 +1,6 @@
 <h1 align="center">
   <div align="center">
-    <img alt="jomkv (Jom Karlo Verzosa) logo" src="./public/favicon.svg" height="150px" width="auto"/>
+    <img alt="jomkv (Jom Karlo Verzosa) logo" src="./public/jkv_logo.svg" height="150px" width="auto"/>
   </div>
   <br/>
   Portfolio - Jom Karlo Verzosa
