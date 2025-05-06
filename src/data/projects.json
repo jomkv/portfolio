@@ -1,86 +1,143 @@
 [
-    {
-        "id": "szn",
-        "carouselImages": ["1.png", "2.png", "3.png", "4.png", "5.png", "6.png"],
-        "projectRepo": "https://github.com/jomkv/SznShop-Client",
-        "projectTitle": "SZN Shop",
-        "projectSlogan": "E-commerce Web Application for SZN Clothing Brand",
-        "projectDescription": "A fully functional and customizable e-commerce platform designed for the SZN clothing brand. The platform features a user-friendly interface for customers to browse and purchase products. The admin side provides tools for managing inventory, orders, and customizing the home page, including carousel images and product categories. Built with scalability and performance in mind, it ensures a seamless shopping experience.",
-        "projectTechnologies": [
-            {
-                "name": "React.js",
-                "icon": "react"
-            },
-            {
-                "name": "Vite",
-                "icon": "vite"
-            },
-            {
-                "name": "Express.js",
-                "icon": "express"
-            },
-            {
-                "name": "MongoDB",
-                "icon": "mongodb"
-            },
-            {
-                "name": "Bootstrap",
-                "icon": "bootstrap"
-            },
-            {
-                "name": "TypeScript",
-                "icon": "typescript"
-            },
-            {
-                "name": "Node.js",
-                "icon": "node"
-            },
-            { 
-                "name": "Git/Github", 
-                "icon": "github" 
-            }
-        ]
-    },
-    {
-        "id": "phoenixhub",
-        "carouselImages": ["1.png", "2.png", "3.png", "4.png", "5.png", "6.png", "7.png"],
-        "projectRepo": "https://github.com/jomkv/Phoenix-Hub",
-        "projectTitle": "Phoenix Hub",
-        "projectSlogan": "Online Marketplace for School Organization's Merchandise",
-        "projectDescription": "A fully functional online marketplace built specifically for the organizations at Cavite State University (CVSU) - SIlang Campus to sell their merchandise. The platform includes a user side for browsing and purchasing items and an admin side for managing products, orders, and categories. Designed to streamline the buying and selling process, it provides a reliable and efficient solution for CVSU Silang's organization officials.",
-        "projectTechnologies": [
-            {
-                "name": "Codeigniter4",
-                "icon": "ci4"
-            },
-            {
-                "name": "MySQL",
-                "icon": "mysql"
-            },
-            {
-                "name": "PHP",
-                "icon": "php"
-            },
-            {
-                "name": "jQuery",
-                "icon": "jquery"
-            },
-            {
-                "name": "PayMongo",
-                "icon": "paymongo"
-            },
-            {
-                "name": "Composer",
-                "icon": "composer"
-            },
-            {
-                "name": "Bootstrap",
-                "icon": "bootstrap"
-            },
-            { 
-                "name": "Git/Github", 
-                "icon": "github" 
-            }
-        ]
-    }
+  {
+    "id": "keybud",
+    "carouselImages": [
+      "1.png",
+      "2.png",
+      "3.png",
+      "4.png",
+      "5.png",
+      "6.png",
+      "7.png",
+      "8.png",
+      "9.png"
+    ],
+    "projectRepo": "https://github.com/jomkv/KeyBud",
+    "projectSite": "https://keybud.jomkv.tech",
+    "projectTitle": "KeyBud",
+    "projectSlogan": "Social media website for keyboard addicts",
+    "projectDescription": "A fully functional social media website designed for keyboard enthusiasts. The platform features robust authentication with both Google OAuth and traditional login/register options, real-time messaging for seamless communication, and a smooth browsing experience for users to connect and share their passion.",
+    "projectTechnologies": [
+      {
+        "name": "React.js",
+        "icon": "react"
+      },
+      {
+        "name": "Express.js",
+        "icon": "express"
+      },
+      {
+        "name": "MongoDB",
+        "icon": "mongodb"
+      },
+      {
+        "name": "Bootstrap",
+        "icon": "bootstrap"
+      },
+      {
+        "name": "TypeScript",
+        "icon": "typescript"
+      },
+      {
+        "name": "Node.js",
+        "icon": "node"
+      },
+      {
+        "name": "Git/Github",
+        "icon": "github"
+      }
+    ]
+  },
+  {
+    "id": "szn",
+    "carouselImages": ["1.png", "2.png", "3.png", "4.png", "5.png", "6.png"],
+    "projectRepo": "https://github.com/jomkv/SznShop-Client",
+    "projectTitle": "SZN Shop",
+    "projectSlogan": "E-commerce Web Application for SZN Clothing Brand",
+    "projectDescription": "A fully functional and customizable e-commerce platform designed for the SZN clothing brand. The platform features a user-friendly interface for customers to browse and purchase products. The admin side provides tools for managing inventory, orders, and customizing the home page, including carousel images and product categories. Built with scalability and performance in mind, it ensures a seamless shopping experience.",
+    "projectTechnologies": [
+      {
+        "name": "React.js",
+        "icon": "react"
+      },
+      {
+        "name": "Vite",
+        "icon": "vite"
+      },
+      {
+        "name": "Express.js",
+        "icon": "express"
+      },
+      {
+        "name": "MongoDB",
+        "icon": "mongodb"
+      },
+      {
+        "name": "Bootstrap",
+        "icon": "bootstrap"
+      },
+      {
+        "name": "TypeScript",
+        "icon": "typescript"
+      },
+      {
+        "name": "Node.js",
+        "icon": "node"
+      },
+      {
+        "name": "Git/Github",
+        "icon": "github"
+      }
+    ]
+  },
+  {
+    "id": "phoenixhub",
+    "carouselImages": [
+      "1.png",
+      "2.png",
+      "3.png",
+      "4.png",
+      "5.png",
+      "6.png",
+      "7.png"
+    ],
+    "projectRepo": "https://github.com/jomkv/Phoenix-Hub",
+    "projectTitle": "Phoenix Hub",
+    "projectSlogan": "Online Marketplace for School Organization's Merchandise",
+    "projectDescription": "A fully functional online marketplace built specifically for the organizations at Cavite State University (CVSU) - SIlang Campus to sell their merchandise. The platform includes a user side for browsing and purchasing items and an admin side for managing products, orders, and categories. Designed to streamline the buying and selling process, it provides a reliable and efficient solution for CVSU Silang's organization officials.",
+    "projectTechnologies": [
+      {
+        "name": "Codeigniter4",
+        "icon": "ci4"
+      },
+      {
+        "name": "MySQL",
+        "icon": "mysql"
+      },
+      {
+        "name": "PHP",
+        "icon": "php"
+      },
+      {
+        "name": "jQuery",
+        "icon": "jquery"
+      },
+      {
+        "name": "PayMongo",
+        "icon": "paymongo"
+      },
+      {
+        "name": "Composer",
+        "icon": "composer"
+      },
+      {
+        "name": "Bootstrap",
+        "icon": "bootstrap"
+      },
+      {
+        "name": "Git/Github",
+        "icon": "github"
+      }
+    ]
+  }
 ]
