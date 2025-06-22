@@ -6,13 +6,13 @@
         "jobTitle": "Full Stack Web Developer",
         "jobTime": "February 2025 - April 2025",
         "jobCompany": "Freelance",
-        "jobDescription": "Developed and deployed a full-stack e-commerce platform with a focus on backend API development, third-party integrations, and seamless front-end collaboration.",
+        "jobDescription": "Contributed to the development of a full-stack e-commerce platform, leading backend implementation while also integrating frontend features like authentication and cart logic using Next.js and Redux Toolkit.",
         "jobActivities": [
-            "Designed and implemented a RESTful API using Express.js, TypeScript, and MongoDB.",
-            "Integrated third-party services and implemented PDF generation for order summaries.",
-            "Developed backend management features for products, orders, and users.",
-            "Collaborated with the front-end team to ensure smooth API integration.",
-            "Deployed the application API on Render and configured DNS and SMTP settings."
+            "Built and deployed the backend for an e-commerce platform using Express.js, TypeScript, and MongoDB, with features like product/order/user management, PDF generation, and third-party integrations.",
+            "Implemented email notifications using SMTP and configured domain DNS records to ensure proper email delivery.",
+            "Designed and implemented secure cookie-based authentication, and ensured correct deployment config for cookie handling between frontend/backend domains.",
+            "Integrated key front-end features such as cart management using Redux Toolkit, with data validation and fallback logic to handle tampering or stock limit breaches.",
+            "Handled auth integration on the Next.js frontend, collaborating with frontend team and working with shadcn and Tailwind CSS components."
         ],
         "jobTechnologies": [
             { "name": "TypeScript", "icon": "typescript" },
@@ -33,12 +33,13 @@
         "jobTitle": "Full Stack Web Developer",
         "jobTime": "June 2024 - September 2024",
         "jobCompany": "Freelance",
-        "jobDescription": "Delivered a custom web application for a client, streamlining their business processes through scalable backend solutions and seamless front-end integration.",
+        "jobDescription": "Contributed to a full-stack web application for a car servicing business, leading backend development on a serverless platform while implementing authentication, email notifications with DNS setup, and supporting frontend integration.",
         "jobActivities": [
-            "Developed and deployed a scalable RESTful API using Express.js and MongoDB.",
-            "Built a custom web application tailored to client requirements.",
-            "Collaborated with a front-end developer to integrate and test API endpoints.",
-            "Ensured reliable data transfer and optimized API performance."
+            "Developed and deployed a scalable RESTful API on a serverless platform (Express.js + MongoDB) for a car servicing business in Singapore.",
+            "Created email notification system and managed SMTP and DNS configuration to support email-based authentication and service reminders/updates.",
+            "Implemented and integrated full authentication flow with token-based auth via local storage, including login, signup, and email verification functionality",
+            "Worked directly with a front-end developer to integrate and test API endpoints, ensuring reliable data transfer.",
+            "Delivered a reliable, production-ready application that continues to serve real business operations today."
         ],
         "jobTechnologies": [
             { "name": "Express.js", "icon": "express" },
