@@ -8,11 +8,10 @@
         "jobCompany": "Freelance",
         "jobDescription": "Contributed to the development of a full-stack e-commerce platform, leading backend implementation while also integrating frontend features like authentication and cart logic using Next.js and Redux Toolkit.",
         "jobActivities": [
-            "Built and deployed the backend for an e-commerce platform using Express.js, TypeScript, and MongoDB, with features like product/order/user management, PDF generation, and third-party integrations.",
-            "Implemented email notifications using SMTP and configured domain DNS records to ensure proper email delivery.",
-            "Designed and implemented secure cookie-based authentication, and ensured correct deployment config for cookie handling between frontend/backend domains.",
-            "Integrated key front-end features such as cart management using Redux Toolkit, with data validation and fallback logic to handle tampering or stock limit breaches.",
-            "Handled auth integration on the Next.js frontend, collaborating with frontend team and working with shadcn and Tailwind CSS components."
+            "Built and deployed the backend for an e-commerce platform using Express.js, TypeScript, and MongoDB, with features like product, order, user, and coupon management, PDF invoice generation, and PayPal Checkout integration.",
+            "Implemented secure authentication using Google OAuth with token-based cookies, and configured deployment to ensure proper cookie handling between frontend and backend.",
+            "Implemented email notification features and configured DNS records to support reliable SMTP delivery using GoDaddy as the email provider for account verification and order updates.",
+            "Contributed to the frontend using Next.js, JavaScript, and Redux Toolkit, integrating backend functionality and assisting with UI implementation using shadcn components."
         ],
         "jobTechnologies": [
             { "name": "TypeScript", "icon": "typescript" },
@@ -35,10 +34,9 @@
         "jobCompany": "Freelance",
         "jobDescription": "Contributed to a full-stack web application for a car servicing business, leading backend development on a serverless platform while implementing authentication, email notifications with DNS setup, and supporting frontend integration.",
         "jobActivities": [
-            "Developed and deployed a scalable RESTful API on a serverless platform (Express.js + MongoDB) for a car servicing business in Singapore.",
-            "Created email notification system and managed SMTP and DNS configuration to support email-based authentication and service reminders/updates.",
-            "Implemented and integrated full authentication flow with token-based auth via local storage, including login, signup, and email verification functionality",
-            "Worked directly with a front-end developer to integrate and test API endpoints, ensuring reliable data transfer.",
+            "Developed and deployed the backend of a car servicing app using Express.js, Javascript, and MongoDB, including booking logic, client management, email notifications, and PDF generation for quotations and invoices.",
+            "Implemented a complete authentication flow including login, signup, email verification, and password reset, using token-based auth.",
+            "Contributed to the frontend using Next.js, Javascript, and shadcn, integrating backend endpoints and assisting with UI implementation.",
             "Delivered a reliable, production-ready application that continues to serve real business operations today."
         ],
         "jobTechnologies": [
