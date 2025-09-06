@@ -1,27 +1,63 @@
 [
     {
+        "skillName": "JavaScript",
+        "skillPicture": "javascript.svg"
+    },
+    {
         "skillName": "TypeScript",
         "skillPicture": "typescript.svg"
     },
     {
-        "skillName": "JavaScript",
-        "skillPicture": "javascript.svg"
+        "skillName": "Python",
+        "skillPicture": "python.svg"
+    },
+    {
+        "skillName": "PHP",
+        "skillPicture": "php.svg"
     },
     {
         "skillName": "Express",
         "skillPicture": "express.svg"
     },
     {
-        "skillName": "MongoDB",
-        "skillPicture": "mongodb.svg"
+        "skillName": "FastAPI",
+        "skillPicture": "fastapi.svg"
+    },
+    {
+        "skillName": "Codeigniter4",
+        "skillPicture": "ci4.svg"
     },
     {
         "skillName": "React.js",
         "skillPicture": "react.svg"
     },
     {
-        "skillName": "Node.js",
-        "skillPicture": "node.svg"
+        "skillName": "Next.js",
+        "skillPicture": "nextjs.svg"
+    },
+    {
+        "skillName": "Vue.js",
+        "skillPicture": "vue.svg"
+    },
+    {
+        "skillName": "MySQL",
+        "skillPicture": "mysql.svg"
+    },
+    {
+        "skillName": "PostgreSQL",
+        "skillPicture": "postgresql.svg"
+    },
+    {
+        "skillName": "MongoDB",
+        "skillPicture": "mongodb.svg"
+    },
+    {
+        "skillName": "HTML",
+        "skillPicture": "html.svg"
+    },
+    {
+        "skillName": "CSS",
+        "skillPicture": "css.svg"
     },
     {
         "skillName": "Bootstrap",
@@ -32,32 +68,8 @@
         "skillPicture": "tailwind.svg"
     },
     {
-        "skillName": "PHP",
-        "skillPicture": "php.svg"
-    },
-    {
-        "skillName": "Codeigniter4",
-        "skillPicture": "ci4.svg"
-    },
-    {
-        "skillName": "MySQL",
-        "skillPicture": "mysql.svg"
-    },
-    {
-        "skillName": "Docker",
-        "skillPicture": "docker.svg"
-    },
-    {
         "skillName": "Material UI",
         "skillPicture": "materialui.svg"
-    },
-    {
-        "skillName": "Next.js",
-        "skillPicture": "nextjs.svg"
-    },
-    {
-        "skillName": "Vite",
-        "skillPicture": "vite.svg"
     },
     {
         "skillName": "Git",
@@ -68,31 +80,11 @@
         "skillPicture": "github.svg"
     },
     {
+        "skillName": "Docker",
+        "skillPicture": "docker.svg"
+    },
+    {
         "skillName": "Postman",
         "skillPicture": "postman.svg"
-    },
-    {
-        "skillName": "VS Code",
-        "skillPicture": "vscode.svg"
-    },
-    {
-        "skillName": "JQuery",
-        "skillPicture": "jquery.svg"
-    },
-    {
-        "skillName": "NPM",
-        "skillPicture": "npm.svg"
-    },
-    {
-        "skillName": "Yarn",
-        "skillPicture": "yarn.svg"
-    },
-    {
-        "skillName": "HTML",
-        "skillPicture": "html.svg"
-    },
-    {
-        "skillName": "CSS",
-        "skillPicture": "css.svg"
     }
 ]
