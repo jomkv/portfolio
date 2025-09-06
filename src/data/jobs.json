@@ -1,17 +1,39 @@
 [
     {
+        "id": "internship-sprout",
+        "jobPicture": "sprout.png",
+        "jobColor": "#0086eb",
+        "jobTitle": "Software Development Intern",
+        "jobTime": "July 2025 - September 2025",
+        "jobCompany": "Sprout Solutions",
+        "jobDescription": "Contributed as a full-stack intern by building backend automation bots with Python, FastAPI, and Azure-ready workflows, developing frontend components with Vue.js and TypeScript, and collaborating in planning sessions to design ERDs, define APIs, and align team deliverables.",
+        "jobActivities": [
+            "Developed automation bots structured for Azure Durable Functions, implementing data-processing and web scraping to support workflows using Python, FastAPI, PostgreSQL, Pandas, and Playwright.",
+            "Contributed to the frontend development by building pages and components from scratch with Vue.js, TypeScript, Tailwind, and the company’s internal design system.",
+            "Participated in sprint planning, PI planning, and technical discussions, helping design ERDs for incoming features, define API requirements, and align deliverables for the team."
+        ],
+        "jobTechnologies": [
+            { "name": "Python", "icon": "python" },
+            { "name": "FastAPI", "icon": "fastapi" },
+            { "name": "PostgreSQL", "icon": "postgresql" },
+            { "name": "Vue.js", "icon": "vue" },
+            { "name": "Tailwind", "icon": "tailwind" },
+            { "name": "TypeScript", "icon": "typescript" }
+        ]
+    },
+    {
         "id": "freelance2",
         "jobPicture": "freelance.webp",
         "jobColor": "#0086eb",
-        "jobTitle": "Full Stack Web Developer",
+        "jobTitle": "Web Developer",
         "jobTime": "February 2025 - April 2025",
         "jobCompany": "Freelance",
         "jobDescription": "Contributed to the development of a full-stack e-commerce platform, leading backend implementation while also integrating frontend features like authentication and cart logic using Next.js and Redux Toolkit.",
         "jobActivities": [
-            "Built and deployed the backend for an e-commerce platform using Express.js, TypeScript, and MongoDB, with features like product, order, user, and coupon management, PDF invoice generation, and PayPal Checkout integration.",
-            "Implemented secure authentication using Google OAuth with token-based cookies, and configured deployment to ensure proper cookie handling between frontend and backend.",
-            "Implemented email notification features and configured DNS records to support reliable SMTP delivery using GoDaddy as the email provider for account verification and order updates.",
-            "Contributed to the frontend using Next.js, JavaScript, and Redux Toolkit, integrating backend functionality and assisting with UI implementation using shadcn components."
+            "Built and deployed the backend of an e-commerce web app using Express.js, TypeScript, and MongoDB.",
+            "Contributed to the frontend with Next.js, Redux Toolkit, and shadcn components, integrating backend functionality and assisting with UI implementation.",
+            "Integrated PayPal Checkout for online payments and automated PDF invoice generation.",
+            "Implemented Google OAuth authentication with secure cookie handling, and added email notifications for order updates."
         ],
         "jobTechnologies": [
             { "name": "TypeScript", "icon": "typescript" },
@@ -29,7 +51,7 @@
         "id": "freelance1",
         "jobPicture": "freelance.webp",
         "jobColor": "#0086eb",
-        "jobTitle": "Full Stack Web Developer",
+        "jobTitle": "Web Developer",
         "jobTime": "June 2024 - September 2024",
         "jobCompany": "Freelance",
         "jobDescription": "Contributed to a full-stack web application for a car servicing business, leading backend development on a serverless platform while implementing authentication, email notifications with DNS setup, and supporting frontend integration.",
