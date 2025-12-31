@@ -6,11 +6,10 @@
         "jobTitle": "Software Development Intern",
         "jobTime": "July 2025 - September 2025",
         "jobCompany": "Sprout Solutions",
-        "jobDescription": "Contributed as a full-stack intern by building backend automation bots with Python, FastAPI, and Azure-ready workflows, developing frontend components with Vue.js and TypeScript, and collaborating in planning sessions to design ERDs, define APIs, and align team deliverables.",
         "jobActivities": [
-            "Developed automation bots structured for Azure Durable Functions, implementing data-processing and web scraping to support workflows using Python, FastAPI, PostgreSQL, Pandas, and Playwright.",
-            "Contributed to the frontend development by building pages and components from scratch with Vue.js, TypeScript, Tailwind, and the company’s internal design system.",
-            "Participated in sprint planning, PI planning, and technical discussions, helping design ERDs for incoming features, define API requirements, and align deliverables for the team."
+            "Developed RPA bots using Python to automate payroll variance reporting, reducing manual reconciliation from hours to seconds.",
+            "Updated frontend and backend code to support new RPA bots, including database migrations and integrations using FastAPI, PostgreSQL, and Azure Durable Functions.",
+            "Pioneered RPA Hub frontend revamp using Vue.js, TypeScript, and Tailwind CSS, implementing reusable, strongly typed components based on real backend data models and wireframes."
         ],
         "jobTechnologies": [
             { "name": "Python", "icon": "python" },
@@ -26,46 +25,24 @@
         "jobPicture": "freelance.webp",
         "jobColor": "#0086eb",
         "jobTitle": "Web Developer",
-        "jobTime": "February 2025 - April 2025",
+        "jobTime": "June – September 2024 & February – April 2025",
         "jobCompany": "Freelance",
-        "jobDescription": "Contributed to the development of a full-stack e-commerce platform, leading backend implementation while also integrating frontend features like authentication and cart logic using Next.js and Redux Toolkit.",
         "jobActivities": [
-            "Built and deployed the backend of an e-commerce web app using Express.js, TypeScript, and MongoDB.",
-            "Contributed to the frontend with Next.js, Redux Toolkit, and shadcn components, integrating backend functionality and assisting with UI implementation.",
-            "Integrated PayPal Checkout for online payments and automated PDF invoice generation.",
-            "Implemented Google OAuth authentication with secure cookie handling, and added email notifications for order updates."
+            "Developed and deployed 2 full-stack applications, serving as the sole backend developer using Express.js, TypeScript, and MongoDB, while contributing to Next.js frontends.",
+            "Built an automotive service management platform used by 10+ employees since 2024, enabling customer service bookings and supporting daily business operations. ",
+            "Implemented secure authentication and role-based access control (RBAC) with super admin, admin, and user roles using JWT, Google OAuth2, and secure cookies.",
+            "Built an internal admin workflow where the super admin assigns quotations and invoices to admins, generate formal documents within the system, and send them directly to clients via email."
         ],
         "jobTechnologies": [
             { "name": "TypeScript", "icon": "typescript" },
+            { "name": "JavaScript", "icon": "javascript" },
             { "name": "Node.js", "icon": "node" },
             { "name": "MongoDB", "icon": "mongodb" },
             { "name": "Express.js", "icon": "express" },
-            { "name": "Vercel", "icon": "vercel" },
+            { "name": "React.js", "icon": "react" },
             { "name": "Next.js", "icon": "nextjs" },
             { "name": "Tailwind", "icon": "tailwind" },
-            { "name": "Git/Github", "icon": "github" },
-            { "name": "Docker", "icon": "docker" }
-        ]
-    },
-    {
-        "id": "freelance1",
-        "jobPicture": "freelance.webp",
-        "jobColor": "#0086eb",
-        "jobTitle": "Web Developer",
-        "jobTime": "June 2024 - September 2024",
-        "jobCompany": "Freelance",
-        "jobDescription": "Contributed to a full-stack web application for a car servicing business, leading backend development on a serverless platform while implementing authentication, email notifications with DNS setup, and supporting frontend integration.",
-        "jobActivities": [
-            "Developed and deployed the backend of a car servicing app using Express.js, Javascript, and MongoDB, including booking logic, client management, email notifications, and PDF generation for quotations and invoices.",
-            "Implemented a complete authentication flow including login, signup, email verification, and password reset, using token-based auth.",
-            "Contributed to the frontend using Next.js, Javascript, and shadcn, integrating backend endpoints and assisting with UI implementation.",
-            "Delivered a reliable, production-ready application that continues to serve real business operations today."
-        ],
-        "jobTechnologies": [
-            { "name": "Express.js", "icon": "express" },
-            { "name": "React.js", "icon": "react" },
-            { "name": "MongoDB", "icon": "mongodb" },
-            { "name": "JavaScript", "icon": "javascript" },
+            { "name": "Vercel", "icon": "vercel" },
             { "name": "Git/Github", "icon": "github" },
             { "name": "Docker", "icon": "docker" }
         ]
@@ -77,12 +54,10 @@
         "jobTitle": "Web Developer Intern",
         "jobTime": "September 2023 - December 2023",
         "jobCompany": "Cleaningly",
-        "jobDescription": "Contributed to the development and maintenance of multiple web applications, focusing on implementing new features, resolving bugs, and ensuring seamless frontend integrations.",
         "jobActivities": [
-            "Built and maintained web application features using the MERN stack.",
-            "Resolved API data integrity issues, improving data accuracy for client appointment statistics.",
-            "Completed over 20 development tickets, including bug fixes and feature implementations.",
-            "Collaborated with team members to ensure timely delivery of deliverables."
+            "Built and maintained Next.js and Express.js applications using JavaScript and MongoDB, delivering 20+ production tickets over 3 months.",
+            "Pioneered an email template builder with dynamic placeholder logic, enabling clients to generate templates automatically instead of manually configuring each field.",
+            "Earned an offer to return as a part-time developer starting January 2024, based on performance during the internship."
         ],
         "jobTechnologies": [
             { "name": "Next.js", "icon": "nextjs" },
