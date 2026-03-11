@@ -13,7 +13,7 @@
       "9.png"
     ],
     "projectRepo": "https://github.com/jomkv/KeyBud",
-    "projectSite": "https://keybud.jomkv.tech",
+    "projectSite": "https://keybud.jomkv.me",
     "projectTitle": "KeyBud",
     "projectSlogan": "Social media website for keyboard addicts",
     "projectDescription": "A fully functional social media website designed for keyboard enthusiasts. The platform features robust authentication with both Google OAuth and traditional login/register options, real-time messaging for seamless communication, and a smooth browsing experience for users to connect and share their passion.",
@@ -52,6 +52,7 @@
     "id": "szn",
     "carouselImages": ["1.png", "2.png", "3.png", "4.png", "5.png", "6.png"],
     "projectRepo": "https://github.com/jomkv/SznShop-Client",
+    "projectSite": "https://szn.jomkv.me",
     "projectTitle": "SZN Shop",
     "projectSlogan": "E-commerce Web Application for SZN Clothing Brand",
     "projectDescription": "A fully functional and customizable e-commerce platform designed for the SZN clothing brand. The platform features a user-friendly interface for customers to browse and purchase products. The admin side provides tools for managing inventory, orders, and customizing the home page, including carousel images and product categories. Built with scalability and performance in mind, it ensures a seamless shopping experience.",
